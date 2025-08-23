@@ -1,4 +1,5 @@
 # 🧹 Data Cleaning in SQL – Nashville Housing Dataset
+![Data-Cleaning-in-SQL-Nashville-Housing-Dataset](nash.png)
 
 ## 📌 Project Overview
 
